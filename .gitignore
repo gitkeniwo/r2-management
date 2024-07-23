@@ -1,0 +1,17 @@
+# ignore python cache files
+__pycache__/
+
+# ignore virtualenv
+venv/
+
+# ignore logs
+logs/
+
+# ignore database
+db.sqlite3
+
+# ignore .env file
+.env
+
+# ignore idea files
+.idea/
